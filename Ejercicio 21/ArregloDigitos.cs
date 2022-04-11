@@ -42,3 +42,5 @@ class ArregloDigitos
       return array;
    }
 }
+
+//Comentario
